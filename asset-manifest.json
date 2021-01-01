@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/eleven-website/static/css/main.6180929d.chunk.css",
+    "main.js": "/eleven-website/static/js/main.66486ae3.chunk.js",
+    "main.js.map": "/eleven-website/static/js/main.66486ae3.chunk.js.map",
+    "runtime-main.js": "/eleven-website/static/js/runtime-main.272d3a00.js",
+    "runtime-main.js.map": "/eleven-website/static/js/runtime-main.272d3a00.js.map",
+    "static/js/2.6e323a49.chunk.js": "/eleven-website/static/js/2.6e323a49.chunk.js",
+    "static/js/2.6e323a49.chunk.js.map": "/eleven-website/static/js/2.6e323a49.chunk.js.map",
+    "index.html": "/eleven-website/index.html",
+    "static/css/main.6180929d.chunk.css.map": "/eleven-website/static/css/main.6180929d.chunk.css.map",
+    "static/js/2.6e323a49.chunk.js.LICENSE.txt": "/eleven-website/static/js/2.6e323a49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.272d3a00.js",
+    "static/js/2.6e323a49.chunk.js",
+    "static/css/main.6180929d.chunk.css",
+    "static/js/main.66486ae3.chunk.js"
+  ]
+}
